@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="imagenes/bola.png">
+    <link rel="stylesheet" href="contacto.css">
+    <title>Documento</title>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo-title">
+                <a href=""><img src="imagenes/bola.png" alt="1" class="logo"></a>
+            </div>
+            <nav id="botones">
+                <ul>
+                    <li><a href="index.html" data-traduccion="inicio">Inicio</a></li>
+                    <li><a href="index.html" data-traduccion="nosotros">Nosotros</a></li>
+                    <li><a href="entradas.html" data-traduccion="entradas">Entradas</a></li>
+                    <li><a href="consu.html" data-traduccion="bebidas">Bebidas</a></li>
+                    <li><a href="contacto.html" data-traduccion="contacto">Contacto</a></li>
+                </ul>
+            </nav>
+            <div class="idioma">
+                <select id="idioma">
+                    <option value="es">ESP</option>
+                    <option value="en">EN</option>
+                </select>
+            </div>
+        </div>
+    </header>
+    
+    <main>
+        <div class="formulario">
+            <h2 data-traduccion="formulario_titulo">Formulario de Contacto</h2>
+            <form>
+                <label for="nombre" data-traduccion="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+    
+                <label for="email" data-traduccion="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+    
+                <label for="mensaje" data-traduccion="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" required></textarea>
+    
+                <input type="submit" value="Enviar" id="envio" data-traduccion="enviar">
+            </form>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-section">
+            <a href="https://www.facebook.com" target="_blank"><img src="imagenes/face.png" alt="1" class="logo"></a>
+            <a href="https://www.twitter.com" target="_blank"><img src="imagenes/twitter.png" alt="1" class="logo"></a>
+            <a href="https://www.instagram.com" target="_blank"><img src="imagenes/insta.png" alt="1" class="logo"></a>
+        </div>
+    </footer>
+    <script src="contacto.js"></script>
+</body>
+</html>

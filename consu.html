@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="imagenes/bola.png" type="image/x-icon">
+    <link rel="stylesheet" href="consu.css">
+    <title>Consumiciones</title>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo-title">
+                <a href=""><img src="imagenes/bola.png" alt="1" class="logo"></a>
+            </div>
+            <nav id="botones">
+                <ul>
+                    <li><a href="index.html" data-traduccion="Inicio">Inicio</a></li>
+                    <li><a href="nosotros.html" data-traduccion="Sobre Nosotros">Nosotros</a></li>
+                    <li><a href="entradas.html" data-traduccion="Entradas">Entradas</a></li>
+                    <li><a href="consu.html" data-traduccion="Consumiciones">Consumiciones</a></li>
+                    <li><a href="contacto.html" data-traduccion="Contacto">Contacto</a></li>
+                </ul>
+            </nav>
+            <div class="idioma">
+                <select id="Selectoridioma">
+                    <option value="es">ESP</option>
+                    <option value="en">EN</option>
+                </select>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="titulo">
+            <h2 data-traduccion="Nuestras Especialidades">Nuestras Especialidades</h2>
+            <p data-traduccion="Sumérgete en nuestra variedad de deliciosas bebidas que te mantendrán bailando toda la noche.">Sumérgete en nuestra variedad de deliciosas bebidas que te mantendrán bailando toda la noche.</p>
+        </div>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Buscar cóctel...">
+            <span id="search-icon" class="icon">🔍</span>
+        </div>
+        <div class="lista-consumiciones" id="cocktail-list">
+        </div>
+        
+    </main>
+    <footer>
+    <div class="footer-section">
+        <a href="https://www.facebook.com" target="_blank"><img src="imagenes/face.png" alt="1" class="logo"></a>
+        <a href="https://www.twitter.com" target="_blank"><img src="imagenes/twitter.png" alt="1" class="logo"></a>
+        <a href="https://www.instagram.com" target="_blank"><img src="imagenes/insta.png" alt="1" class="logo"></a>
+        
+    </div>
+</footer>
+    <script src="buscador.js"></script>
+    <script src="consumiciones.js"></script>
+</body>
+</html>

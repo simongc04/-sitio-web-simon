@@ -1,0 +1,294 @@
+/* Estilos globales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+/* Estilos para el encabezado */
+header {
+    height: 100vh;
+    background: #000 url('imagenes/kokum-club-lounge-02.jpeg') no-repeat center bottom / cover;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s, background 0.7s;
+}
+
+a:hover {
+    color: #000;
+}
+
+img:hover {
+    transform: scale(1.6);
+    transition: all 0.5s;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.logo-title {
+    display: flex;
+    align-items: center;
+}
+
+.logo-title img.logo {
+    width: 200px;
+    margin-right: 1rem;
+}
+
+#botones ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    transform: scale(1.3);
+}
+
+#botones ul li {
+    padding: 0 3rem;
+}
+
+#botones ul li a {
+    padding: 0.5rem 1rem;
+    background: #f0e;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgb(0, 0, 0), 0 0 20px rgb(0, 0, 0), 0 0 30px #f0e, 0 0 40px #f0e;
+}
+
+#botones ul li a:hover {
+    background: #fff;
+    color: #000;
+}
+
+.idioma {
+    display: flex;
+    align-items: center;
+    margin: 3%;
+}
+
+.idioma button {
+    background: #f0e;
+    color: #222;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.idioma button:hover {
+    background: #fff;
+    color: #000;
+}
+
+.idioma select {
+    background: transparent;
+    border: 1px solid #f0e;
+    background-color: #000;
+    color: #fff;
+    padding: 0.5rem;
+}
+
+.bienvenidos {
+    padding: 2rem;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+section p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+#nosotros {
+    padding: 2rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+#nosotros h2 {
+    font-size: 2.5rem;
+    margin: 3rem;
+}
+
+#nosotros p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+#nosotros iframe {
+    margin-top: 2rem;
+    border: none;
+}
+
+footer {
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    padding: 2rem 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-section a {
+    margin-right: 1rem;
+}
+
+.footer-section img {
+    width: 60px;
+    margin-right: 0.5rem;
+}
+
+/* Estilos responsivos */
+
+/* Móviles  */
+@media (max-width: 600px) {
+    .header-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logo-title img.logo {
+        width: 150px;
+    }
+
+    #botones ul {
+        flex-direction: column;
+        transform: scale(1);
+    }
+
+    #botones ul li {
+        padding: 1rem 0;
+    }
+
+    section h2 {
+        font-size: 2rem;
+    }
+
+    section p {
+        font-size: 1rem;
+    }
+
+    #nosotros h2 {
+        font-size: 2rem;
+        margin: 2rem;
+    }
+
+    #nosotros p {
+        font-size: 1rem;
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Tablets */
+@media (min-width: 601px) and (max-width: 900px) {
+    .header-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logo-title img.logo {
+        width: 175px;
+    }
+
+    #botones ul {
+        flex-direction: row;
+        transform: scale(1.1);
+    }
+
+    #botones ul li {
+        padding: 0 2rem;
+    }
+
+    section h2 {
+        font-size: 2.5rem;
+    }
+
+    section p {
+        font-size: 1.2rem;
+    }
+
+    #nosotros h2 {
+        font-size: 2.2rem;
+        margin: 2.5rem;
+    }
+
+    #nosotros p {
+        font-size: 1.1rem;
+    }
+
+    .footer-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Ordenadores */
+@media (min-width: 901px) {
+    .header-content {
+        flex-direction: row;
+        text-align: left;
+    }
+
+    .logo-title img.logo {
+        width: 200px;
+    }
+
+    #botones ul {
+        flex-direction: row;
+        transform: scale(1.3);
+    }
+
+    #botones ul li {
+        padding: 0 3rem;
+    }
+
+    section h2 {
+        font-size: 3rem;
+    }
+
+    section p {
+        font-size: 1.5rem;
+    }
+
+    #nosotros h2 {
+        font-size: 2.5rem;
+        margin: 3rem;
+    }
+
+    #nosotros p {
+        font-size: 1.2rem;
+    }
+
+    .footer-content {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

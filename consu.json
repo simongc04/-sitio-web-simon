@@ -1,0 +1,135 @@
+[
+    {
+        "nombre": "Mojito",
+        "descripcion": "Un refrescante cóctel cubano con ron, menta y limón.",
+        "precio": "8€",
+        "receta": "Ron blanco, menta, azúcar, limón, soda",
+        "imagen_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mojito-cocktails-150961e.jpg?quality=90&resize=430,390"
+    },
+    {
+        "nombre": "Piña Colada",
+        "descripcion": "Una mezcla tropical de piña, coco y ron.",
+        "precio": "10€",
+        "receta": "Ron, crema de coco, jugo de piña, hielo",
+        "imagen_url": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/A9467000-4182-4A69-802E-6A36234604C1/Derivates/9cca3d9b-727b-4d23-b633-71dcd23125da.jpg"
+    },
+    {
+        "nombre": "Daiquiri",
+        "descripcion": "Un clásico cóctel cubano con ron, limón y azúcar.",
+        "precio": "9€",
+        "receta": "Ron blanco, jugo de limón, jarabe de azúcar",
+        "imagen_url": "https://assets.bacardicontenthub.com/transform/8178432e-721f-4c42-b075-7392a94434b6/Bacardi_Daiquiri_Headerbanner_Mobile_PBX?io=transform:fit,width:500,height:625&format=jpg&quality=75"
+    },
+    {
+        "nombre": "Cuba Libre",
+        "descripcion": "Una simple y refrescante mezcla de ron y cola.",
+        "precio": "7€",
+        "receta": "Ron, refresco de cola, jugo de limón",
+        "imagen_url": "https://www.liquor.com/thmb/cpSgrrmR7SDnFDfvI150WYsF-Fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__01__02105149__Cuba-Libre-720x720-recipe-673b48bbef034d89b6b5149b8417c7d5.jpg"
+    },
+    {
+        "nombre": "Havana Especial",
+        "descripcion": "Un cóctel cubano con ron, piña y marrasquino.",
+        "precio": "9€",
+        "receta": "Ron blanco, jugo de piña, licor marrasquino",
+        "imagen_url": "https://img1.elyerromenu.com/images/bar-restaurante-gourmet/habana-especial/img.webp"
+    },
+    {
+        "nombre": "El Presidente",
+        "descripcion": "Un elegante cóctel cubano con ron, vermut y granadina.",
+        "precio": "10€",
+        "receta": "Ron blanco, vermut seco, granadina, curaçao",
+        "imagen_url": "https://imag.bonviveur.com/foto-portada-del-coctel-presidente.jpg"
+    },
+    {
+        "nombre": "Hemingway Daiquiri",
+        "descripcion": "Un cóctel refrescante y cítrico en honor a Ernest Hemingway.",
+        "precio": "11€",
+        "receta": "Ron blanco, jugo de lima, jugo de toronja, jarabe de azúcar, licor marrasquino",
+        "imagen_url": "https://www.liquor.com/thmb/G34V7YMuYG_RfJwYZJ22UlXtMIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hemingway-daiquiri-720x720-primary-780a20b6aa3148318bd5ee9656e7b53d.jpg"
+    },
+    {
+        "nombre": "Canchánchara",
+        "descripcion": "Un cóctel tradicional cubano con ron, miel y limón.",
+        "precio": "8€",
+        "receta": "Ron blanco, jugo de limón, miel, agua con gas",
+        "imagen_url": "https://drinksmotion.com/wp-content/uploads/2019/04/Dise%C3%B1o-sin-t%C3%ADtulo-13.png"
+    },
+    {
+        "nombre": "Ron Collins",
+        "descripcion": "Una variante del clásico Tom Collins con ron.",
+        "precio": "9€",
+        "receta": "Ron blanco, jugo de limón, jarabe de azúcar, agua con gas",
+        "imagen_url": "https://cdn0.celebritax.com/sites/default/files/styles/amp/public/coctel-tom-collins-receta-y.jpg"
+    },
+    {
+        "nombre": "Coctel Bellingo",
+        "descripcion": "Ron barato dispuesto a joderte",
+        "precio": "7€",
+        "receta": "Ron, citrus",
+        "imagen_url": "https://alto1994.com/tienda/192571-home_default/ron-blanco-belingo-1-l-375-12.jpg"
+    },
+    {
+        "nombre": "Mary Pickford",
+        "descripcion": "Un cóctel dulce y afrutado nombrado en honor a la famosa actriz.",
+        "precio": "10€",
+        "receta": "Ron blanco, jugo de piña, licor marrasquino, granadina",
+        "imagen_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=663x1024:format=jpg/path/seeaa8d15c3e53a26/image/i428fafb2775ec520/version/1435692254/image.jpg"
+    },
+    {
+        "nombre": "Cubanito",
+        "descripcion": "La versión cubana del Bloody Mary, pero con ron.",
+        "precio": "9€",
+        "receta": "Ron blanco, jugo de tomate, jugo de limón, salsa Worcestershire, salsa picante, sal, pimienta",
+        "imagen_url": "https://www.cocina-cubana.com/base/stock/Recipe/33-image/33-image_web.jpg"
+    },
+    {
+        "nombre": "Mulata",
+        "descripcion": "Un cóctel dulce y cremoso con ron y licor de café.",
+        "precio": "10€",
+        "receta": "Ron oscuro, licor de café, crema de cacao, jugo de limón",
+        "imagen_url": "https://havana-club.com/wp-content/uploads/2021/02/Mulata-Daiquiri_434x700.png"
+    },
+    {
+        "nombre": "Saoco",
+        "descripcion": "Un cóctel refrescante hecho con ron y agua de coco.",
+        "precio": "8€",
+        "receta": "Ron blanco, agua de coco, jugo de limón",
+        "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmHwML8pePMtm1YI53iEaX_70s5MFE-XS4A&s"
+    },
+    {
+        "nombre": "Chanchán",
+        "descripcion": "Un cóctel cubano a base de ron, piña y anís.",
+        "precio": "9€",
+        "receta": "Ron blanco, jugo de piña, licor de anís, jarabe de azúcar",
+        "imagen_url": "https://hips.hearstapps.com/hmg-prod/images/can-chan-chan-quetzalina-elle-gourmet-6553bd79ad297.jpg?resize=980:*"
+    },
+    {
+        "nombre": "Tropical Itch",
+        "descripcion": "Un cóctel afrutado y refrescante con ron, jugo de frutas y curaçao.",
+        "precio": "11€",
+        "receta": "Ron oscuro, jugo de piña, jugo de naranja, curaçao azul, jarabe de azúcar",
+        "imagen_url": "https://images.squarespace-cdn.com/content/v1/62503525c8ea875b7ae0638e/1679769746376-2WFTN5AQH8WAYSZC52UC/Tropical+Itch+6.jpg"
+    },
+    {
+        "nombre": "Ron Punch",
+        "descripcion": "Un potente y afrutado ponche con una mezcla de rones y jugos de frutas.",
+        "precio": "12€",
+        "receta": "Ron blanco, ron oscuro, jugo de piña, jugo de naranja, jugo de limón, granadina",
+        "imagen_url": "https://todaslasbebidas.com/wp-content/uploads/2023/09/rum-punch.jpg"
+    },
+    {
+        "nombre": "Ron Swizzle",
+        "descripcion": "Un cóctel refrescante con ron, jugo de frutas y angostura.",
+        "precio": "10€",
+        "receta": "Ron blanco, jugo de lima, jarabe de azúcar, angostura, hielo picado",
+        "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3TF23yS2mN1bepvfLRrvZeoAqnhjQmLrTw&s"
+    },
+    {
+        "nombre": "Coctel Tropical",
+        "descripcion": "Un cóctel afrutado y tropical con ron y jugos de frutas exóticas.",
+        "precio": "10€",
+        "receta": "Ron blanco, jugo de maracuyá, jugo de mango, jarabe de azúcar",
+        "imagen_url": "https://media.gq.com.mx/photos/60804596ff5494ae253c8eb0/1:1/w_2000,h_2000,c_limit/COCTELES.jpg"
+    }
+]
