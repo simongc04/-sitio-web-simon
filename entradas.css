@@ -86,15 +86,12 @@ img:hover {
 .idioma {
     display: flex;
     align-items: center;
-    margin: 2%;
+    margin: 5%;
 }
 
-.idioma select {
-    background: transparent;
-    border: 1px solid #f0e;
-    background-color: #000;
-    color: #fff;
-    padding: 0.5rem;
+.idioma a img {
+    width: 60px; 
+    margin-right: 10px; 
 }
 
 .inicio {
@@ -149,7 +146,7 @@ section p {
 }
 
 .tickets {
-    margin: 300px;
+    margin: 100px;
 }
 
 .tickets .ticket-options {
@@ -164,6 +161,10 @@ section p {
     padding: 20px;
     border-radius: 30px;
     width: 32%;
+}
+
+.ticket .h3{
+    margin: 20px;
 }
 
 footer {

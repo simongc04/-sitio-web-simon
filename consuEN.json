@@ -1,0 +1,136 @@
+[
+    {
+    "nombre": "Mojito",
+    "descripcion": "A refreshing Cuban cocktail with rum, mint and lemon.",
+    "precio": "€8",
+    "receta": "White rum, mint, sugar, lemon, soda",
+    "imagen_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mojito-cocktails-150961e.jpg?quality=90&resize=430,390"
+    },
+    {
+    "nombre": "Piña Colada",
+    "descripcion": "A tropical blend of pineapple, coconut and rum.",
+    "precio": "€10",
+    "receta": "Rum, coconut cream, pineapple juice, ice",
+    "imagen_url": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/A9467000-4182-4A69-802E-6A36234604C1/Derivates/9cca3d9b-727b-4d23-b633-71dcd23125da.jpg"
+    },
+    {
+    "nombre": "Daiquiri",
+    "descripcion": "A classic Cuban cocktail with rum, lemon and sugar.",
+    "precio": "€9",
+    "receta": "White rum, lemon juice, sugar syrup",
+    "imagen_url": "https://assets.bacardicontenthub.com/transform/8178432e-721f-4c42-b075-7392a94434b6/Bacardi_Daiquiri_Headerbanner_Mobile_PBX?io=transform:fit,width:500,height:625&format=jpg&quality=75"
+    },
+    {
+    "nombre": "Cuba Libre",
+    "descripcion": "A simple and refreshing blend of rum and cola.",
+    "precio": "€7",
+    "receta": "Rum, cola, lemon juice",
+    "imagen_url": "https://www.liquor.com/thmb/cpSgrrmR7SDnFDfvI150WYsF-Fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__01__02105149__Cuba-Libre-720x720-receta-673b48bbef034d89b6b5149b8417c7d5.jpg"
+    },
+    {
+    "nombre": "Havana Especial",
+    "descripcion": "A Cuban cocktail with rum, pineapple and maraschino.",
+    "precio": "€9",
+    "receta": "White rum, pineapple juice, maraschino liqueur",
+    "imagen_url": "https://img1.elyerromenu.com/images/bar-restaurante-gourmet/habana-especial/img.webp"
+    },
+    {
+    "nombre": "The President",
+    "descripcion": "An elegant Cuban cocktail with rum, vermouth and grenadine.",
+    "precio": "€10",
+    "receta": "White rum, dry vermouth, grenadine, curaçao",
+    "imagen_url": "https://imag.bonviveur.com/foto-portada-del-coctel-presidente.jpg"
+    },
+    {
+    "nombre": "Hemingway Daiquiri",
+    "descripcion": "A refreshing and citrusy cocktail in honor of Ernest Hemingway.",
+    "precio": "€11",
+    "receta": "White rum, lime juice, grapefruit juice, sugar syrup, maraschino liqueur",
+    "imagen_url": "https://www.liquor.com/thmb/G34V7YMuYG_RfJwYZJ22UlXtMIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hemingway-daiquiri-720x720-primary-780a20b6aa3148318bd5ee9656e7b53d.jpg"
+    },
+    {
+    "nombre": "Canchánchara",
+    "descripcion": "A traditional Cuban cocktail with rum, honey and lemon.",
+    "precio": "€8",
+    "receta": "White rum, lemon juice, honey, soda water",
+    "imagen_url": "https://drinksmotion.com/wp-content/uploads/2019/04/Dise%C3%B1o-sin-t%C3%ADtulo-13.png"
+    },
+    {
+    "nombre": "Ron Collins",
+    "descripcion": "A variant of the classic Tom Collins with rum.",
+    "precio": "€9",
+    "receta": "White rum, lemon juice, sugar syrup, soda water",
+    "imagen_url": "https://cdn0.celebritax.com/sites/default/files/styles/amp/public/coctel-tom-collins-receta-y.jpg"
+    },
+    {
+    "nombre": "Bellingo Cocktail",
+    "descripcion": "Cheap rum ready to screw you",
+    "precio": "€2",
+    "receta": "Rum, citrus",
+    "imagen_url": "https://alto1994.com/tienda/192571-home_default/ron-blanco-belingo-1-l-375-12.jpg"
+    },
+    {
+    "nombre": "Mary Pickford",
+    "descripcion": "A sweet and fruity cocktail nombred after the famous actress.",
+    "precio": "10€",
+    "receta": "White rum, pineapple juice, maraschino liqueur, grenadine",
+    "imagen_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=663x1024:format=jpg/path/seeaa8d15c3e53a26/image/i428fafb2775ec520/version/1435692254/image.jpg"
+    },
+    {
+        "nombre": "Cubanito",
+        "descripcion": "The Cuban version of the Bloody Mary, but with rum.",
+        "precio": "9€",
+        "receta": "White rum, tomato juice, lemon juice, Worcestershire sauce, hot sauce, salt, pepper",
+        "imagen_url": "https://www.cocina-cubana.com/base/stock/receta/33-image/33-image_web.jpg"
+    },
+    {
+        "nombre": "Mulata",
+        "descripcion": "A sweet and creamy cocktail with rum and coffee liqueur.",
+        "precio": "10€",
+        "receta": "Dark rum, coffee liqueur, creme de cacao, lemon juice",
+        "imagen_url": "https://havana-club.com/wp-content/uploads/2021/02/Mulata-Daiquiri_434x700.png"
+    },
+    {
+        "nombre": "Saoco",
+        "descripcion": "A refreshing cocktail made with rum and coconut water.",
+        "precio": "8€",
+        "receta": "White rum, coconut water, lemon juice",
+        "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmHwML8pePMtm1YI53iEaX_70s5MFE-XS4A&s"
+    },
+    {
+        "nombre": "Chanchán",
+        "descripcion": "A Cuban cocktail made with rum, pineapple, and anise liqueur.",
+        "precio": "9€",
+        "receta": "White rum, pineapple juice, anise liqueur, sugar syrup",
+        "imagen_url": "https://hips.hearstapps.com/hmg-prod/images/can-chan-chan-quetzalina-elle-gourmet-6553bd79ad297.jpg?resize=980:*"
+    },
+    {
+        "nombre": "Tropical Itch",
+        "descripcion": "A fruity and refreshing cocktail with rum, fruit juice, and curaçao.",
+        "precio": "11€",
+        "receta": "Dark rum, pineapple juice, orange juice, blue curaçao, sugar syrup",
+        "imagen_url": "https://images.squarespace-cdn.com/content/v1/62503525c8ea875b7ae0638e/1679769746376-2WFTN5AQH8WAYSZC52UC/Tropical+Itch+6.jpg"
+    },
+    {
+        "nombre": "Ron Punch",
+        "descripcion": "A potent and fruity punch with a blend of rums and fruit juices.",
+        "precio": "12€",
+        "receta": "White rum, dark rum, pineapple juice, orange juice, lemon juice, grenadine",
+        "imagen_url": "https://todaslasbebidas.com/wp-content/uploads/2023/09/rum-punch.jpg"
+    },
+    {
+        "nombre": "Ron Swizzle",
+        "descripcion": "A refreshing cocktail with rum, fruit juice, and angostura.",
+        "precio": "10€",
+        "receta": "White rum, lime juice, sugar syrup, angostura, crushed ice",
+        "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3TF23yS2mN1bepvfLRrvZeoAqnhjQmLrTw&s"
+    },
+    {
+        "nombre": "Tropical Cocktail",
+        "descripcion": "A fruity and tropical cocktail with rum and exotic fruit juices.",
+        "precio": "10€",
+        "receta": "White rum, passion fruit juice, mango juice, sugar syrup",
+        "imagen_url": "https://media.gq.com.mx/photos/60804596ff5494ae253c8eb0/1:1/w_2000,h_2000,c_limit/COCTELES.jpg"
+    }   
+]
+   

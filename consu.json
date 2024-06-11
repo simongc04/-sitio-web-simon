@@ -65,7 +65,7 @@
     {
         "nombre": "Coctel Bellingo",
         "descripcion": "Ron barato dispuesto a joderte",
-        "precio": "7€",
+        "precio": "2€",
         "receta": "Ron, citrus",
         "imagen_url": "https://alto1994.com/tienda/192571-home_default/ron-blanco-belingo-1-l-375-12.jpg"
     },
@@ -132,4 +132,6 @@
         "receta": "Ron blanco, jugo de maracuyá, jugo de mango, jarabe de azúcar",
         "imagen_url": "https://media.gq.com.mx/photos/60804596ff5494ae253c8eb0/1:1/w_2000,h_2000,c_limit/COCTELES.jpg"
     }
+
+    
 ]
